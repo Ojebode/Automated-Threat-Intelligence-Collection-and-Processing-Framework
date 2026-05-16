@@ -1,0 +1,6 @@
+# Exclude these files from the elastic folder
+Elastic\del.py
+Elastic\delete.py
+Elastic\ElasticsearchManager.py
+Elastic\logShipper.py
+Elastic\manager.py
