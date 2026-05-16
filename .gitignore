@@ -1,6 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+<<<<<<< HEAD
 # Exclude these files from the elastic folder
 Elastic\del.py
 Elastic\delete.py
 Elastic\ElasticsearchManager.py
 Elastic\logShipper.py
 Elastic\manager.py
+=======
