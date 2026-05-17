@@ -10,8 +10,8 @@ send = now.strftime("%b %d, %Y @ %H:%M:%S.%f")[:-3]
 # https://process.thetechdream.net/api/send_data
 
 conf = {'Server Address': 'https://process.thetechdream.net/',
-        'Username': 'data',
-        'Password': 'yG?6V2]T3f8a^£',
+        'Username': 'osint',
+        'Password': 'yG?6V2]T3f8a£',
         'Authenticate': 'True',
         'Verify SSL': "False"}
 
