@@ -1,0 +1,446 @@
+[
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "179.43.187.33",
+        "details": "Cadet Blizzard emerges as a novel and distinct Russian threat actor (363)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.161.208.234",
+        "details": "IoT devices and Linux-based systems targeted by OpenSSH trojan campaign (364)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "139.180.185.24",
+        "details": "IoT devices and Linux-based systems targeted by OpenSSH trojan campaign (364)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "199.247.30.230",
+        "details": "IoT devices and Linux-based systems targeted by OpenSSH trojan campaign (364)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "149.28.239.146",
+        "details": "IoT devices and Linux-based systems targeted by OpenSSH trojan campaign (364)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "209.250.234.77",
+        "details": "IoT devices and Linux-based systems targeted by OpenSSH trojan campaign (364)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "70.34.220.100",
+        "details": "IoT devices and Linux-based systems targeted by OpenSSH trojan campaign (364)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "5.90.58.69",
+        "details": "Chinese Threat Actors Targeting Europe in SmugX Campaign (365)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "62.233.57.136",
+        "details": "Chinese Threat Actors Targeting Europe in SmugX Campaign (365)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "217.12.207.164",
+        "details": "Chinese Threat Actors Targeting Europe in SmugX Campaign (365)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "152.152.12.12",
+        "details": "Chinese Threat Actors Targeting Europe in SmugX Campaign (365)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "94.142.138.244",
+        "details": "Void Rabisu\u2019s Use of RomCom Backdoor Shows a Growing Shift in Threat Actors\u2019 Goals (367)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "51.195.49.215",
+        "details": "Void Rabisu\u2019s Use of RomCom Backdoor Shows a Growing Shift in Threat Actors\u2019 Goals (367)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "51.89.156.153",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "176.31.90.129",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "137.74.181.100",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "193.36.119.45",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.158.248.159",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "131.153.78.188",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "37.143.130.146",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.70.157.45",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.195.200.39",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.38.142.229",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.70.121.44",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "31.42.177.181",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.51.134.52",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "173.44.226.70",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "45.14.227.233",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.236.231.109",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "178.73.220.149",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "45.14.227.212",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "91.222.173.225",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.70.35.168",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.70.157.213",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "31.42.177.201",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "5.252.176.8",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "80.85.158.215",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "193.149.129.88",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "5.252.178.68",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "116.202.251.8",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.158.248.93",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "20.108.240.252",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.70.135.182",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "195.26.87.219",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.236.228.183",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "85.239.63.160",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "193.105.134.58",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.0.74.16",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "91.231.186.226",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "91.222.174.41",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.38.142.249",
+        "details": "Analysis of Storm-0558 techniques for unauthorized email access (368)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.70.149.61",
+        "details": "MuddyWater eN-Able spear-phishing with new TTPs (376)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "146.70.124.102",
+        "details": "MuddyWater eN-Able spear-phishing with new TTPs (376)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "37.120.237.204",
+        "details": "MuddyWater eN-Able spear-phishing with new TTPs (376)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "37.120.237.248",
+        "details": "MuddyWater eN-Able spear-phishing with new TTPs (376)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "45.89.106.147",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "145.239.54.169",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "176.124.32.84",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.180.223.48",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "91.235.234.81",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "205.147.101.170",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "45.128.232.143",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "91.235.234.251",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "46.8.198.196",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "156.241.86.2",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "63.79.171.112",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "217.57.80.18",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "70.62.153.174",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.44.81.147",
+        "details": "The attack against Danish critical infrastructure (377)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "82.180.150.197",
+        "details": "Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (378)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "176.119.195.113",
+        "details": "Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (378)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "176.119.195.115",
+        "details": "Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (378)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "185.220.101.58",
+        "details": "Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (378)\n"
+    },
+    {
+        "source": "Botvrij",
+        "type": "ip-dst",
+        "value": "190.2.145.24",
+        "details": "Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (378)\n"
+    }
+]
