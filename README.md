@@ -1,11 +1,11 @@
 # IP-threat-intel-pipeline
-Multi-source IP threat intelligence pipeline that normalizes and ships CTI feeds to Elasticsearch. Currently pulls from 4 sources:\
-- Feodo Tracker\
-- Botvrij\
-- IPsum\
+Multi-source IP threat intelligence pipeline that normalizes and ships CTI feeds to Elasticsearch. Currently pulls from 4 sources:
+- Feodo Tracker
+- Botvrij
+- IPsum
 - REScure
 
-Normalization Template:\
+Normalization Template:
 
 def format_template(initial_data):\
     intel = {}\
