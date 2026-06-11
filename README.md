@@ -1,5 +1,5 @@
-### Automated Threat Intelligence Collection and Processing Framework
----
+## Automated Threat Intelligence Collection and Processing Framework
+
 ### Overview
 The Automated Threat Intelligence Collection and Processing Framework is a scalable architecture designed to automatically gather, normalize, and operationalize threat intelligence from multiple external sources such as OSINT feeds, security advisories, and vulnerability databases. It processes raw intelligence into structured, actionable data, which are centrally stored and integrated with platforms like SIEM, SOAR, and CTI solutions. This automation improves security operations efficiency, reduces manual effort, and enables faster threat detection, hunting, and incident response.
 
