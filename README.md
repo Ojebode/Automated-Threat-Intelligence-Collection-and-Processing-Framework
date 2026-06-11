@@ -5,8 +5,8 @@ The Automated Threat Intelligence Collection and Processing Framework is a scala
 
 <img width="1291" height="946" alt="Threat-intel-pipeline" src="https://github.com/user-attachments/assets/84b02950-3dd2-4c83-8415-fabbebf5eba8" />
 
-### Architecture and System Design
----
+## Architecture and System Design
+
 This architecture provides a scalable and automated approach to collecting, processing, and operationalizing cyber threat intelligence from multiple external sources. Intelligence is gathered from a variety of internet-based sources, including open-source feeds, vendor intelligence, security advisories, vulnerability databases, and research publications.
 
 All collected data is routed through a centralized ingestion layer responsible for acquiring and managing intelligence from diverse sources. The data is then processed by specialized intelligence agents that transform raw information into structured and actionable intelligence. Through parsing and normalization, critical elements such as indicators of compromise (IOCs), threat actors, vulnerabilities, malware families, and TTPs are extracted and standardized into a consistent format.
