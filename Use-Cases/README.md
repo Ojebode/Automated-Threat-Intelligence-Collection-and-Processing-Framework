@@ -37,7 +37,7 @@ REScure is an independent cyber threat intelligence initiative that maintains bl
 ```python
 def format_template(initial_data):
     intel = {}
-    intel["type"] = "ip_address"
+    intel["type"] = ""
     intel["category"] = "threat_intelligence"
     intel["value"] = initial_data["value"]
     intel["description"] = initial_data["details"]
