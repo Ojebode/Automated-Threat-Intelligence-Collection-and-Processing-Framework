@@ -1,3 +1,5 @@
+### Current Pull Sources:
+
 Intel Source 1 — Feodo Tracker IP Blocklist (abuse.ch)\
 Goal / Purpose\
 Pulls a curated, real-time JSON blocklist of IP addresses actively associated with Command & Control (C2) infrastructure used by banking trojans and botnet malware families tracked by abuse.ch's Feodo Tracker project.
@@ -28,3 +30,19 @@ Pulls a plain-text blacklist of malicious IP addresses from REScure, an independ
 
 Summary\
 REScure is an independent cyber threat intelligence initiative that maintains blacklists of malicious IPs and domains derived from real-time event correlation across a large internal dataset. Each node in the REScure dataset is an event with its own separate attributes, totalling around 2 million, which are correlated in real-time to ensure only offending, malicious entries are listed. Unlike feeds tied to specific malware families or APT campaigns, REScure's scope is broad, covering general malicious activity across multiple threat categories, which adds width to the pipeline's overall detection coverage.
+
+
+### Normalization Template:
+
+def format_template(initial_data):
+      intel = {}
+      intel["type"] = "ip_address"
+      intel["category"] = "threat_intelligence"
+      intel["value"] = initial_data["value"]
+      intel["description"] = initial_data["details"]
+      intel["confidence"] = ""
+      intel["first_seen"] = ""
+      intel["last_seen"] = ""
+      intel["active"] = ""
+      intel["meta"] = initial_data
+      return intel
