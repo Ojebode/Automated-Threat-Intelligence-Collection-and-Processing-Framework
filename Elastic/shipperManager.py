@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 import datetime
@@ -7,13 +8,12 @@ index = 'datasource_posts_linkedin'
 now = datetime.datetime.now()
 send = now.strftime("%b %d, %Y @ %H:%M:%S.%f")[:-3]
 # print(send)
-# https://process.thetechdream.net/api/send_data
 
-conf = {'Server Address': 'https://process.thetech.net/',
-        'Username': 'osint',
-        'Password': 'yG?xx2]T3f8a£',
+conf = {'Server Address': os.environ.get('ES_SERVER_ADDRESS', 'https://process.thetech.net/'),
+        'Username': os.environ['ES_USERNAME'],
+        'Password': os.environ['ES_PASSWORD'],
         'Authenticate': 'True',
-        'Verify SSL': "False"}
+        'Verify SSL': os.environ.get('ES_VERIFY_SSL', 'True')}
 
 # Example Consts:
 SCRIPT_NAME = "ElasticSearch - Push"  # For logging
@@ -38,7 +38,7 @@ class Shipper:
     def push(self, event):
         try:
             url = "{0}".format(server_address)
-            response = requests.post(url, headers=headers, json=event, verify=False)
+            response = requests.post(url, headers=headers, json=event, verify=verify_ssl, timeout=30)
             if response.status_code == 200:
                 try:
                     # Try to return JSON response
@@ -51,3 +51,4 @@ class Shipper:
                 return {"success": False, "status_code": response.status_code, "message": response.text}
         except Exception as e:
             print(u"Error performing action: {}".format(e))
+            return {"success": False, "message": str(e)}
