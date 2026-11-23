@@ -24,7 +24,8 @@ def format_template(initial_data):
 
 
 try:
-    content = requests.get(url)
+    content = requests.get(url, timeout=30)
+    content.raise_for_status()
     output = content.json()
     new_output = []
 
@@ -35,7 +36,7 @@ try:
     json_formatted_str = json.dumps(new_output, indent=4)
     for data in new_output:
         ship = wrapper.push(data)
-        if isinstance(ship, dict):
+        if isinstance(ship, dict) and ship.get("success", True):
             count += 1
             print("OUTCOME: {0}".format(ship))
         else:
